@@ -1,0 +1,5 @@
+# local metadata
+.terraform
+
+# contains secrets
+terraform.tfvars
